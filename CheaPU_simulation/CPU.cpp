@@ -89,6 +89,7 @@ namespace CheaPU {
 
 		accumulator = memory[source_address];
 		program_counter += 2;
+
 		co_return true;
 	}
 
