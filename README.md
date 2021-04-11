@@ -23,7 +23,9 @@ Here is an example: count from 0 to 255, overflow, restart from zero, repeat for
 
 
 A more difficult exercise - what does this code do?
+
 ![More difficult programming example](https://github.com/stefanos-86/CheaPU/blob/master/docs/Quiz.png "")
+
 
 Now you may rethink your position on the "CISC vs. RISC" debate.
 
