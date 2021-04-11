@@ -21,6 +21,7 @@ Here is an example: count from 0 to 255, overflow, restart from zero, repeat for
 
 ![Programming example](https://github.com/stefanos-86/CheaPU/blob/master/docs/SimpleCount.png "")
 
+
 A more difficult exercise - what does this code do?
 ![More difficult programming example](https://github.com/stefanos-86/CheaPU/blob/master/docs/Quiz.png "")
 
