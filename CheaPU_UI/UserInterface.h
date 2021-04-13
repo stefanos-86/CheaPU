@@ -86,8 +86,8 @@ namespace CheaPU {
 		/** Since we are emulating a primitive microcomputer, I feel I should implement the text
 		* rendering how it was done "back then".
 		* 
-		* Well, no. The real reason is that I don't want to reuse some code that expects an image with the 
-		* character maps nor link in the appropriate SDL exception. This is just a reasonably simple kludge
+		* Well, no. The real reason is that I don't want to reuse some code I have that expects an image with the 
+		* character maps nor link in the appropriate SDL extension. This is just a reasonably simple kludge
 		* (with a pedigree).
 		* 
 		* A letter is an 8x8 matrix of pixel. Using one bit each, you can have a glyph defined by 8 bytes.
