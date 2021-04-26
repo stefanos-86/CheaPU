@@ -46,7 +46,7 @@ Finally, the pun in the name requires to say "CPU" as an Italian would. It almos
 ## Where to go from here?
 * If you want to see real emulators or know more about microcomputers of the '70s and '80s, just google "retrocomputing" and follow up from there; there is a huge and very active community and endless documentation.
 * If you want to be serious about low-level programming on real computers, again there are plenty of resources on the web. Two of my favourites are [Programming From The Ground Up](https://www.onlineprogrammingbooks.com/programming-from-the-ground-up/) and the [X86 Disassembly](https://en.wikibooks.org/wiki/X86_Disassembly) wikibook.
-* If you are curious about how real CPUs are put together: back at Univeristy I enjoyed the "Structured Computer Organization" book by Tanenbaum (Italian edition); I read more books later on... I'll update the references here soon.
+* If you are curious about how real CPUs are put together: back at Univeristy I enjoyed the "Structured Computer Organization" book by Tanenbaum (Italian edition); I can also recommend "Compurer Architecture: a Quantitave Approach" (Hennessy) and "Modern Processor Design: Fundamentals of Superscalar Processors" (Shen); Hardware is a fascinating topic!
 
 ## Answer to the programming quiz
 It sums the numbers from 4 to 1 (4 + 3 + 2 + 1 = 10). The running sum is at 0x15 (the last tape byte), there is a "1" hardcoded at 0x13 (don't forget to count from 0!) to do the +1 and -1 at every loop and the counter is at 0x14. 
