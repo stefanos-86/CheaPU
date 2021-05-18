@@ -359,7 +359,7 @@ namespace CheaPU {
 			if (halt_game_loop)
 				return;
 
-			cpu.cycle(memory);  // 1 cicle per frame... not the fastest thing around, but makes the LED blinks at a nice pace.
+			cpu.cycle(memory);  // 1 cycle per frame... not the fastest thing around, but makes the LED blinks at a nice pace.
 
 			draw_background();
 
